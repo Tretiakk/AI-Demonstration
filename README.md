@@ -23,6 +23,3 @@ Light and dark themes in the app.
 
 ### Network error
 ![](https://github.com/Tretiakk/AI/blob/main/Network.png)
-
-### Video
-![](https://github.com/Tretiakk/AI/blob/main/AI_gif.gif)
